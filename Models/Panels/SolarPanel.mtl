@@ -1,0 +1,11 @@
+# Rhino
+newmtl 自定义
+Ka 0.0000 0.0000 0.0000
+Kd 0.2471 0.7451 0.7451
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 0.8296
+Ns 188.0551
+map_Kd wire_154215229_baseColor.png
+map_Bump wire_154215229_roughness.png
+map_D wire_154215229_metallic.png
