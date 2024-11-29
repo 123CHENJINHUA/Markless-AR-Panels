@@ -17,6 +17,6 @@ select the points which match the points in your building.txt file, <br />
 "Press r to reset all tracking points" <br />
 ## Demo <br />
 Tower B in HKUST <br />
-![image](https://github.com/123CHENJINHUA/Gif-Store/blob/main/TowerB.gif)
+![image](https://github.com/123CHENJINHUA/Gif-Store/blob/main/TowerB.gif)<br />
 Other building in HKUST <br />
-![image](https://github.com/123CHENJINHUA/Gif-Store/blob/main/otherBuilding.gif)
+![image](https://github.com/123CHENJINHUA/Gif-Store/blob/main/otherBuilding.gif)<br />
